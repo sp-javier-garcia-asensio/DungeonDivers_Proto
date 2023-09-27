@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MAT_lev_water_1_ground_a
+  m_Shader: {fileID: 4800000, guid: 9e23f317a5581d144816a2941117ecb0, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _DF:
+        m_Texture: {fileID: 2800000, guid: c04a7b3c7df4f6b4c8ad257189d6ba97, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DF_A:
+        m_Texture: {fileID: 2800000, guid: dc6cef0554f4a104d812ca04dd5f5e67, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DF_B:
+        m_Texture: {fileID: 2800000, guid: 25be3176c093e784bb74f37ff5ce6b59, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LM:
+        m_Texture: {fileID: 2800000, guid: d610bb1727e59e74c8b78170c0bd9682, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MK:
+        m_Texture: {fileID: 2800000, guid: f05ce825c86da5e409ec2821b1a3b592, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NDIS:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NM:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlendPoint: 1.56
+    - _BlendThresh: 1.47
+    - _BumpAmount: 0.25
+    - _Overbright: 1.3
+    - _ReflectionAmount: 1
+    - _ReflectionBend: 0
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _tileing: {r: 1, g: 1, b: 1, a: 1}
