@@ -62,7 +62,7 @@ namespace MoreMountains.Tools
 				Handles.Label(t.PointPosition(i) + (Vector3.down*0.4f) + (Vector3.right*0.4f), ""+i,style);
 
 				// draws a movable handle
-				var fmh_65_57_638305944771836804 = Quaternion.identity; Vector3 newPoint = Handles.FreeMoveHandle(oldPoint,.5f,new Vector3(.25f,.25f,.25f),Handles.CircleHandleCap);
+				var fmh_65_57_638318404730679571 = Quaternion.identity; Vector3 newPoint = Handles.FreeMoveHandle(oldPoint,.5f,new Vector3(.25f,.25f,.25f),Handles.CircleHandleCap);
 
 				// records changes
 				if (EditorGUI.EndChangeCheck())
