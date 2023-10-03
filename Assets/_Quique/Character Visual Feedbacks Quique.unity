@@ -2392,12 +2392,11 @@ MonoBehaviour:
   BlockingMovementStates: 
   BlockingConditionStates: 
   BlockingWeaponStates: 
-  InitialWeapon: {fileID: 2932284805358284143, guid: a6d2872dfcf40e743adf84343caa070f,
+  InitialWeapon: {fileID: 114594623923584052, guid: ef55da2671b55de42ac772579e5f8a70,
     type: 3}
   CanPickupWeapons: 1
   WeaponUseFeedback: {fileID: 0}
-  WeaponAttachment: {fileID: 4565189611861034, guid: c68415d74816bae4296fabd5bd40695e,
-    type: 3}
+  WeaponAttachment: {fileID: 1037520140}
   ProjectileSpawn: {fileID: 0}
   AutomaticallyBindAnimator: 1
   AmmoDisplayID: 0
@@ -2769,6 +2768,12 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!4 &1037520140 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1559881830698052588, guid: 77f65258752282348b36115b78c47d8f,
+    type: 3}
+  m_PrefabInstance: {fileID: 3005296242376363855}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1105957107 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 114714365709490776, guid: 9edcf7e494cf3e640b18cb7495fb179a,
