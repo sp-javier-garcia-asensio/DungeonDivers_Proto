@@ -3685,7 +3685,22 @@ PrefabInstance:
     - target: {fileID: 2397692545461659566, guid: 77f65258752282348b36115b78c47d8f,
         type: 3}
       propertyPath: DashDistance
-      value: 3
+      value: 3.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2397692545461659566, guid: 77f65258752282348b36115b78c47d8f,
+        type: 3}
+      propertyPath: DashDuration
+      value: 0.35
+      objectReference: {fileID: 0}
+    - target: {fileID: 2397692545461659566, guid: 77f65258752282348b36115b78c47d8f,
+        type: 3}
+      propertyPath: DashCurve.m_Curve.Array.data[0].inSlope
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2397692545461659566, guid: 77f65258752282348b36115b78c47d8f,
+        type: 3}
+      propertyPath: DashCurve.m_Curve.Array.data[0].outSlope
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2813749983838876116, guid: 77f65258752282348b36115b78c47d8f,
         type: 3}
