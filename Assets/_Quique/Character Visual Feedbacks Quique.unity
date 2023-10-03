@@ -2773,6 +2773,134 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 10, y: 43.4, z: 19}
   m_Center: {x: 0, y: 0, z: -17.9}
+--- !u!1001 &1397198832
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.x
+      value: -23.973114
+      objectReference: {fileID: 0}
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[1].PathElementPosition.z
+      value: -0.8076134
+      objectReference: {fileID: 0}
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[2].PathElementPosition.x
+      value: -24.45641
+      objectReference: {fileID: 0}
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[2].PathElementPosition.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[2].PathElementPosition.z
+      value: 6.6684456
+      objectReference: {fileID: 0}
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[3].PathElementPosition.x
+      value: 0.53320885
+      objectReference: {fileID: 0}
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[3].PathElementPosition.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 1937554823909779254, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: PathElements.Array.data[3].PathElementPosition.z
+      value: 6.0772896
+      objectReference: {fileID: 0}
+    - target: {fileID: 3408530479342355650, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_Name
+      value: PatrolConeSeekAndDestroyAI
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.32
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 7.24
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8072019672743076661, guid: 1008c39b92b46e746a89558dd8ddf77f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1008c39b92b46e746a89558dd8ddf77f, type: 3}
 --- !u!1 &1618121291
 GameObject:
   m_ObjectHideFlags: 0
@@ -3225,7 +3353,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1663800712547734, guid: 9edcf7e494cf3e640b18cb7495fb179a, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1895050183196758, guid: 9edcf7e494cf3e640b18cb7495fb179a, type: 3}
       propertyPath: m_IsActive
@@ -3812,6 +3940,16 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6516099510961007695, guid: 77f65258752282348b36115b78c47d8f,
+        type: 3}
+      propertyPath: InitialHealth
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 6516099510961007695, guid: 77f65258752282348b36115b78c47d8f,
+        type: 3}
+      propertyPath: ResetHealthOnEnable
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3829,3 +3967,4 @@ SceneRoots:
   - {fileID: 358747542}
   - {fileID: 3005296242376363855}
   - {fileID: 809288157}
+  - {fileID: 1397198832}
