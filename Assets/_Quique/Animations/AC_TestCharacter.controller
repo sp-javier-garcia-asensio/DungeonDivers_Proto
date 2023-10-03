@@ -36,9 +36,9 @@ AnimatorStateTransition:
   m_Mute: 0
   m_IsExit: 0
   serializedVersion: 3
-  m_TransitionDuration: 0.25
+  m_TransitionDuration: 0.07361969
   m_TransitionOffset: 0
-  m_ExitTime: 0.25
+  m_ExitTime: 0.8412132
   m_HasExitTime: 1
   m_HasFixedDuration: 1
   m_InterruptionSource: 0
@@ -1100,7 +1100,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Jump
-  m_Speed: 0.7
+  m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: -7351163412713810961}
@@ -1378,7 +1378,7 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Sprinting Forward Roll
-  m_Speed: 2.1
+  m_Speed: 1
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 1101333493242513866}
@@ -1391,7 +1391,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 7df738e2db3b2e94a872bc8fd74f608a, type: 3}
+  m_Motion: {fileID: 7400000, guid: 07887bd28f3ad004f89b94c3cc7e2bf5, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -1457,7 +1457,7 @@ AnimatorStateMachine:
     m_Position: {x: 650, y: 370, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102033692649476012}
-    m_Position: {x: 160, y: -60, z: 0}
+    m_Position: {x: 150, y: -50, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1102199188329997694}
     m_Position: {x: 510, y: 520, z: 0}
