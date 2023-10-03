@@ -2359,121 +2359,12 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1291175415}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &867307351 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5839675801925480678, guid: 77f65258752282348b36115b78c47d8f,
-    type: 3}
-  m_PrefabInstance: {fileID: 3005296242376363855}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &867307366 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4585965310461082923, guid: 77f65258752282348b36115b78c47d8f,
     type: 3}
   m_PrefabInstance: {fileID: 3005296242376363855}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &867307368
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 867307351}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6a07c6668aa55403790d27b575279549, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  AbilityStartSfx: {fileID: 0}
-  AbilityInProgressSfx: {fileID: 0}
-  AbilityStopSfx: {fileID: 0}
-  AbilityStartFeedbacks: {fileID: 0}
-  AbilityStopFeedbacks: {fileID: 0}
-  AbilityPermitted: 1
-  BlockingMovementStates: 
-  BlockingConditionStates: 
-  BlockingWeaponStates: 
-  InitialWeapon: {fileID: 114594623923584052, guid: ef55da2671b55de42ac772579e5f8a70,
-    type: 3}
-  CanPickupWeapons: 1
-  WeaponUseFeedback: {fileID: 0}
-  WeaponAttachment: {fileID: 1037520140}
-  ProjectileSpawn: {fileID: 0}
-  AutomaticallyBindAnimator: 1
-  AmmoDisplayID: 0
-  AutoIK: 1
-  ContinuousPress: 0
-  GettingHitInterruptsAttack: 0
-  UseSecondaryAxisThresholdToShoot: 0
-  ForceWeaponAimControl: 0
-  ForcedWeaponAimControl: 1
-  ForceAlwaysShoot: 0
-  BufferInput: 0
-  NewInputExtendsBuffer: 0
-  MaximumBufferDuration: 0.25
-  RequiresPerfectTile: 0
-  CurrentWeapon: {fileID: 0}
---- !u!114 &867307369
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 867307351}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a87ffdd7d8febb24b817b1d3d350bef7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  AbilityStartSfx: {fileID: 0}
-  AbilityInProgressSfx: {fileID: 0}
-  AbilityStopSfx: {fileID: 0}
-  AbilityStartFeedbacks: {fileID: 0}
-  AbilityStopFeedbacks: {fileID: 0}
-  AbilityPermitted: 1
-  BlockingMovementStates: 
-  BlockingConditionStates: 
-  BlockingWeaponStates: 
-  PreventJumpInButtonActivatedZone: 1
-  ButtonActivatedZone: {fileID: 0}
---- !u!114 &867307370
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 867307351}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0fa6ee80e80ad814d933f9fb81daf72f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  AbilityStartSfx: {fileID: 0}
-  AbilityInProgressSfx: {fileID: 0}
-  AbilityStopSfx: {fileID: 0}
-  AbilityStartFeedbacks: {fileID: 0}
-  AbilityStopFeedbacks: {fileID: 0}
-  AbilityPermitted: 1
-  BlockingMovementStates: 
-  BlockingConditionStates: 
-  BlockingWeaponStates: 
-  DirectionMarker: {fileID: 0}
-  DirectionMarkerID: 0
-  Mode: 0
-  RotationCenterOffset: {x: 0, y: 0, z: 0}
-  UpVector: {x: 0, y: 1, z: 0}
-  ForwardVector: {x: 0, y: 0, z: 1}
-  PreventXRotation: 0
-  PreventYRotation: 0
-  PreventZRotation: 0
-  OffsetAlongMagnitude: 0
-  MinimumVelocity: 0
-  MaximumVelocity: 7
-  OffsetRemapMin: 0
-  OffsetRemapMax: 1
-  DisableBelowThreshold: 0
-  DisableThreshold: 0.1
-  Interpolate: 0
-  InterpolateRate: 5
 --- !u!1 &931170446
 GameObject:
   m_ObjectHideFlags: 0
@@ -2768,12 +2659,6 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
---- !u!4 &1037520140 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 1559881830698052588, guid: 77f65258752282348b36115b78c47d8f,
-    type: 3}
-  m_PrefabInstance: {fileID: 3005296242376363855}
-  m_PrefabAsset: {fileID: 0}
 --- !u!114 &1105957107 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 114714365709490776, guid: 9edcf7e494cf3e640b18cb7495fb179a,
@@ -3791,51 +3676,6 @@ PrefabInstance:
       propertyPath: TouchTheGroundParticles.Array.data[0]
       value: 
       objectReference: {fileID: 271091627}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: ScaleWiggleProperties.LimitedTime
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: PositionWiggleProperties.LimitedTime
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: RotationWiggleProperties.LimitedTime
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: ScaleWiggleProperties.LimitedTimeLeft
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: ScaleWiggleProperties.LimitedTimeTotal
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: PositionWiggleProperties.LimitedTimeLeft
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: RotationWiggleProperties.LimitedTimeLeft
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: PositionWiggleProperties.LimitedTimeTotal
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4299297579137148993, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: RotationWiggleProperties.LimitedTimeTotal
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 4585965310461082923, guid: 77f65258752282348b36115b78c47d8f,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3886,37 +3726,15 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4707132592298882558, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: m_Controller
-      value: 
-      objectReference: {fileID: 9100000, guid: 5fe893d448a5870469748621ec806da0, type: 2}
     - target: {fileID: 5839675801925480678, guid: 77f65258752282348b36115b78c47d8f,
         type: 3}
       propertyPath: m_Name
       value: TestCharacter
       objectReference: {fileID: 0}
-    - target: {fileID: 5839675801925480678, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5839675801925480678, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      insertIndex: 9
-      addedObject: {fileID: 867307369}
-    - targetCorrespondingSourceObject: {fileID: 5839675801925480678, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 867307368}
-    - targetCorrespondingSourceObject: {fileID: 5839675801925480678, guid: 77f65258752282348b36115b78c47d8f,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 867307370}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 77f65258752282348b36115b78c47d8f, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
