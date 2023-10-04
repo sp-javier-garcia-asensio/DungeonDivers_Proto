@@ -119,11 +119,11 @@ MonoBehaviour:
   TargetLayerMask:
     serializedVersion: 2
     m_Bits: 1280
-  MinDamageCaused: 10
+  MinDamageCaused: 25
   MaxDamageCaused: 25
   Knockback: 1
-  KnockbackForce: {x: 1, y: 0, z: 0}
-  KnockbackDirection: 2
+  KnockbackForce: {x: 2, y: 2, z: 2}
+  KnockbackDirection: 0
   InvincibilityDuration: 0.5
   CanDamageOwner: 0
 --- !u!114 &2463841059975174656
