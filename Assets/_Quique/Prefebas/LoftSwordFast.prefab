@@ -51,10 +51,10 @@ MonoBehaviour:
   WeaponName: Sword
   WeaponCurrentlyActive: 1
   InputAuthorized: 1
-  TriggerMode: 0
-  DelayBeforeUse: 0
+  TriggerMode: 1
+  DelayBeforeUse: 0.2
   DelayBeforeUseReleaseInterruption: 0
-  TimeBetweenUses: 0
+  TimeBetweenUses: 0.1
   TimeBetweenUsesReleaseInterruption: 0
   UseBurstMode: 0
   BurstLength: 3
@@ -87,7 +87,7 @@ MonoBehaviour:
   MirrorCharacterAnimatorParameters: 0
   WeaponAnimationID: 10
   IdleAnimationParameter: 
-  StartAnimationParameter: Slash1Fast
+  StartAnimationParameter: Slash1
   DelayBeforeUseAnimationParameter: 
   SingleUseAnimationParameter: 
   UseAnimationParameter: 
@@ -145,7 +145,7 @@ MonoBehaviour:
   WeaponCurrentlyActive: 1
   InputAuthorized: 1
   TriggerMode: 0
-  DelayBeforeUse: 0
+  DelayBeforeUse: 0.3
   DelayBeforeUseReleaseInterruption: 0
   TimeBetweenUses: 0.1
   TimeBetweenUsesReleaseInterruption: 0
@@ -180,7 +180,7 @@ MonoBehaviour:
   MirrorCharacterAnimatorParameters: 0
   WeaponAnimationID: 10
   IdleAnimationParameter: 
-  StartAnimationParameter: Slash2Fast
+  StartAnimationParameter: Slash2
   DelayBeforeUseAnimationParameter: 
   SingleUseAnimationParameter: 
   UseAnimationParameter: 
@@ -238,7 +238,7 @@ MonoBehaviour:
   WeaponCurrentlyActive: 1
   InputAuthorized: 1
   TriggerMode: 0
-  DelayBeforeUse: 0
+  DelayBeforeUse: 0.4
   DelayBeforeUseReleaseInterruption: 0
   TimeBetweenUses: 0.2
   TimeBetweenUsesReleaseInterruption: 0
@@ -273,7 +273,7 @@ MonoBehaviour:
   MirrorCharacterAnimatorParameters: 0
   WeaponAnimationID: 10
   IdleAnimationParameter: 
-  StartAnimationParameter: Slash3Fast
+  StartAnimationParameter: Slash3
   DelayBeforeUseAnimationParameter: 
   SingleUseAnimationParameter: 
   UseAnimationParameter: 
