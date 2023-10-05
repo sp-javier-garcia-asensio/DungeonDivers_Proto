@@ -48,7 +48,7 @@ MonoBehaviour:
   WeaponName: Sword
   WeaponCurrentlyActive: 1
   InputAuthorized: 1
-  TriggerMode: 0
+  TriggerMode: 1
   DelayBeforeUse: 0
   DelayBeforeUseReleaseInterruption: 0
   TimeBetweenUses: 2
@@ -119,9 +119,9 @@ MonoBehaviour:
   TargetLayerMask:
     serializedVersion: 2
     m_Bits: 1280
-  MinDamageCaused: 25
-  MaxDamageCaused: 25
-  Knockback: 1
+  MinDamageCaused: 10
+  MaxDamageCaused: 10
+  Knockback: 0
   KnockbackForce: {x: 2, y: 2, z: 2}
   KnockbackDirection: 0
   InvincibilityDuration: 0.5
