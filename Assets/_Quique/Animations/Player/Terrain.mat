@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terrain
+  m_Shader: {fileID: -6465566751694194690, guid: 05c9984c0ebcf4c47a1b8ce11733c03a,
+    type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Map_A_1:
+        m_Texture: {fileID: 2800000, guid: 267dc5a90e307c142a9051a5b3f51e73, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Map_A_2:
+        m_Texture: {fileID: 2800000, guid: 267dc5a90e307c142a9051a5b3f51e73, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Map_B_1:
+        m_Texture: {fileID: 2800000, guid: ccc5509c95e0ea747887b70220e48f6d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Map_B_2:
+        m_Texture: {fileID: 2800000, guid: ccc5509c95e0ea747887b70220e48f6d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: e593dcd1297ddb2498bf8ce7ed41daf6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Map_A:
+        m_Texture: {fileID: 2800000, guid: 16da1d1a37b324c488b16e2b6de1f689, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Mask_Map_B:
+        m_Texture: {fileID: 2800000, guid: 939781b433a8cfb43a425a4ccd962df7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    m_Colors:
+    - _Color_A1: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_A2: {r: 0, g: 0, b: 0, a: 1}
+    - _Color_B1: {r: 1, g: 1, b: 1, a: 1}
+    - _Color_B2: {r: 0.3584906, g: 0.31272325, b: 0.028746892, a: 1}
+    - _Tilling_Offset: {r: 1, g: 1, b: 0, a: 0}
+    - _Tilling_Offset_1: {r: 1, g: 1, b: 0, a: 0}
+    - _Tilling_Offset_2: {r: 1, g: 1, b: 0, a: 0}
+    - _Tilling_Offset_3: {r: 1, g: 1, b: 0, a: 0}
+    - _Tilling_Offset_4: {r: 1, g: 1, b: 0, a: 0}
+    - _Tilling_Offset_A: {r: 3, g: 3, b: 0, a: 0}
+    - _Tilling_Offset_A1: {r: 10, g: 10, b: 0, a: 0}
+    - _Tilling_Offset_A2: {r: 10, g: 10, b: 0, a: 0}
+    - _Tilling_Offset_A_1: {r: 0, g: 0, b: 0, a: 0}
+    - _Tilling_Offset_A_2: {r: 0, g: 0, b: 0, a: 0}
+    - _Tilling_Offset_B: {r: 10, g: 10, b: 0, a: 0}
+    - _Tilling_Offset_B1: {r: 15, g: 15, b: 0, a: 0}
+    - _Tilling_Offset_B2: {r: 8, g: 8, b: 0, a: 0}
+    - _Vector4: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector4_1: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector4_2: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector4_3: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector4_4: {r: 0, g: 0, b: 0, a: 0}
+    - _Vector4_5: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &5158017141506161920
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
