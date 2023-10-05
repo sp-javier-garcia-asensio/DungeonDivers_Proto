@@ -52,9 +52,9 @@ MonoBehaviour:
   WeaponCurrentlyActive: 1
   InputAuthorized: 1
   TriggerMode: 1
-  DelayBeforeUse: 0.2
+  DelayBeforeUse: 0
   DelayBeforeUseReleaseInterruption: 0
-  TimeBetweenUses: 0.1
+  TimeBetweenUses: 0
   TimeBetweenUsesReleaseInterruption: 0
   UseBurstMode: 0
   BurstLength: 3
@@ -87,7 +87,7 @@ MonoBehaviour:
   MirrorCharacterAnimatorParameters: 0
   WeaponAnimationID: 10
   IdleAnimationParameter: 
-  StartAnimationParameter: Slash1
+  StartAnimationParameter: Slash1Fast
   DelayBeforeUseAnimationParameter: 
   SingleUseAnimationParameter: 
   UseAnimationParameter: 
@@ -145,9 +145,9 @@ MonoBehaviour:
   WeaponCurrentlyActive: 1
   InputAuthorized: 1
   TriggerMode: 0
-  DelayBeforeUse: 0.3
+  DelayBeforeUse: 0.1
   DelayBeforeUseReleaseInterruption: 0
-  TimeBetweenUses: 0.1
+  TimeBetweenUses: 0
   TimeBetweenUsesReleaseInterruption: 0
   UseBurstMode: 0
   BurstLength: 3
@@ -180,7 +180,7 @@ MonoBehaviour:
   MirrorCharacterAnimatorParameters: 0
   WeaponAnimationID: 10
   IdleAnimationParameter: 
-  StartAnimationParameter: Slash2
+  StartAnimationParameter: Slash2Fast
   DelayBeforeUseAnimationParameter: 
   SingleUseAnimationParameter: 
   UseAnimationParameter: 
@@ -238,9 +238,9 @@ MonoBehaviour:
   WeaponCurrentlyActive: 1
   InputAuthorized: 1
   TriggerMode: 0
-  DelayBeforeUse: 0.4
+  DelayBeforeUse: 0.2
   DelayBeforeUseReleaseInterruption: 0
-  TimeBetweenUses: 0.2
+  TimeBetweenUses: 0.15
   TimeBetweenUsesReleaseInterruption: 0
   UseBurstMode: 0
   BurstLength: 3

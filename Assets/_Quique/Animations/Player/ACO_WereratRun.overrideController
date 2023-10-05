@@ -6,7 +6,7 @@ AnimatorOverrideController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ACO_Wererat
+  m_Name: ACO_WereratRun
   m_Controller: {fileID: 9100000, guid: e8be78121a80b9740b6b6c6afd092d77, type: 2}
   m_Clips:
   - m_OriginalClip: {fileID: 7400000, guid: 8b0c7850df0d59041877803e6dc83978, type: 2}
@@ -18,7 +18,7 @@ AnimatorOverrideController:
   - m_OriginalClip: {fileID: 7400000, guid: 5ac97fb2adf220847bb53d0f71bc8a0a, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: 99207c91eb1287144be839c6f9c9e34f, type: 3}
   - m_OriginalClip: {fileID: 7400000, guid: 8413eecad3ce2c84c95e9596bef7c15e, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: caeea38115ebd8c4884b274e96a3b7c1, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: 23a147843b1135b4e8123824b603bf80, type: 3}
   - m_OriginalClip: {fileID: 7400000, guid: 28d108c72672e2e44819b3f3589cba71, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: 23a147843b1135b4e8123824b603bf80, type: 3}
   - m_OriginalClip: {fileID: 7400000, guid: 6cda08924d1893449bf2d8cbe97ebde5, type: 3}
