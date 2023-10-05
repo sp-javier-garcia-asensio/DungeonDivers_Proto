@@ -137,7 +137,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/TopDownEngine/ThirdParty/MoreMountains/MMTools/Demos/MMSceneLoading/MMSceneLoadingDemoSceneB.unity
     guid: 352d34cac2435634fb99618d19a3929c
-  - enabled: 1
+  - enabled: 0
     path: Assets/_Quique/Character Visual Feedbacks Quique.unity
     guid: c02d0800c9fcdac4e83bd6c5881fd2ea
+  - enabled: 1
+    path: Assets/Chracter Visual Feedbacks/Scenes/Character Visual Feedbacks.unity
+    guid: d8d3296cf86c2744b8c140b576fcba31
   m_configObjects: {}
