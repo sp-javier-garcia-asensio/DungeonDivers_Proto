@@ -49,11 +49,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask_Map_A:
-        m_Texture: {fileID: 2800000, guid: 16da1d1a37b324c488b16e2b6de1f689, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2c4df605782fc0d40bc2b2c3dc935251, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Mask_Map_B:
-        m_Texture: {fileID: 2800000, guid: 939781b433a8cfb43a425a4ccd962df7, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2c4df605782fc0d40bc2b2c3dc935251, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
@@ -62,22 +62,22 @@ Material:
     - _BUILTIN_QueueOffset: 0
     m_Colors:
     - _Color_A1: {r: 1, g: 1, b: 1, a: 1}
-    - _Color_A2: {r: 0, g: 0, b: 0, a: 1}
-    - _Color_B1: {r: 1, g: 1, b: 1, a: 1}
-    - _Color_B2: {r: 0.3584906, g: 0.31272325, b: 0.028746892, a: 1}
+    - _Color_A2: {r: 0.509434, g: 0.50542897, b: 0.24750803, a: 1}
+    - _Color_B1: {r: 1, g: 0.99122155, b: 0.9669811, a: 1}
+    - _Color_B2: {r: 0.61, g: 0.55314475, b: 0.020141521, a: 1}
     - _Tilling_Offset: {r: 1, g: 1, b: 0, a: 0}
     - _Tilling_Offset_1: {r: 1, g: 1, b: 0, a: 0}
     - _Tilling_Offset_2: {r: 1, g: 1, b: 0, a: 0}
     - _Tilling_Offset_3: {r: 1, g: 1, b: 0, a: 0}
     - _Tilling_Offset_4: {r: 1, g: 1, b: 0, a: 0}
-    - _Tilling_Offset_A: {r: 3, g: 3, b: 0, a: 0}
-    - _Tilling_Offset_A1: {r: 10, g: 10, b: 0, a: 0}
-    - _Tilling_Offset_A2: {r: 10, g: 10, b: 0, a: 0}
+    - _Tilling_Offset_A: {r: 5, g: 5, b: 0, a: 0}
+    - _Tilling_Offset_A1: {r: 30, g: 30, b: 0, a: 0}
+    - _Tilling_Offset_A2: {r: 20, g: 20, b: 0, a: 0}
     - _Tilling_Offset_A_1: {r: 0, g: 0, b: 0, a: 0}
     - _Tilling_Offset_A_2: {r: 0, g: 0, b: 0, a: 0}
     - _Tilling_Offset_B: {r: 10, g: 10, b: 0, a: 0}
-    - _Tilling_Offset_B1: {r: 15, g: 15, b: 0, a: 0}
-    - _Tilling_Offset_B2: {r: 8, g: 8, b: 0, a: 0}
+    - _Tilling_Offset_B1: {r: 30, g: 30, b: 0, a: 0}
+    - _Tilling_Offset_B2: {r: 20, g: 20, b: 0, a: 0}
     - _Vector4: {r: 0, g: 0, b: 0, a: 0}
     - _Vector4_1: {r: 0, g: 0, b: 0, a: 0}
     - _Vector4_2: {r: 0, g: 0, b: 0, a: 0}
